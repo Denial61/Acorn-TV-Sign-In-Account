@@ -11,7 +11,7 @@ Learn how to access your Acorn TV sign in account, manage login issues, and expl
    :alt: Acorn TV Sign In Account
    :width: 400px
    :align: center
-   :target: https://aclogportal.com/acorntv-signin
+   :target: https://acorntvaccount.com/
 
 
 If you're someone who enjoys binge-worthy British dramas, mysteries, or classic comedies, then Acorn TV is likely one of your go-to streaming services. But before diving into your favorite episodes, knowing how to access your Acorn TV sign in account is key. Whether you're logging in for the first time or returning after a while, this guide will help you sign in smoothly and manage your account with ease.
