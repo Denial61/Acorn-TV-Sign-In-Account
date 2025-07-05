@@ -7,7 +7,7 @@ How Do I Sign In to My Acorn TV Account Easily?
 
 Learn how to access your Acorn TV sign in account, manage login issues, and explore helpful tips for seamless streaming with this complete guide.
 
-.. image:: https://expressvpn.readthedocs.io/en/latest/_images/sign-in.jpg
+.. image:: sign-in.jpg
    :alt: Acorn TV Sign In Account
    :width: 400px
    :align: center
